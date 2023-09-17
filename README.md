@@ -10,8 +10,3 @@ Logged Identifiers include:
 - Hardware ID
 - Time
 - Date
-
-```diff
-
-@@ text in purple (and bold)@@
-```
