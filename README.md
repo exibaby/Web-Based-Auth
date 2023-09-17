@@ -12,5 +12,5 @@ Logged Identifiers include:
 - Date
 
 ```diff
-@@ text in purple (and bold)@@
+d
 ```
